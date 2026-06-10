@@ -8,6 +8,7 @@ on:
       - .dockerignore
       - pyproject.toml
       - uv.lock
+      - settings.py
       - .github/workflows/nextlife-ghcr.yml
   workflow_dispatch:
 
